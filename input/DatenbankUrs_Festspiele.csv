@@ -1,0 +1,69 @@
+owl:Class,dct:identifier,schema:name,schema:addressLocality,ex:AblageortSTS,schema:addressRegion,schema:relatedLink,ex:statusaaktivnanichtaktiv,ex:EckdatennichtSTS,ex:frühereNamen,ex:Dokumente1,ex:Dokumente2,ex:Dokumente3,ex:Dokumente4
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000001,,,,,,,,,VP,,PA,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000002,,,,,,,,,Volumen Couvert Anzahl  (x C)  Schachteln Anzahl (x S)  Bände       Anzahl (x B)      Rezensionen   Anzahl (x R) keine (00),Grenzdaten  historisch XXXX-XXXX   aktiv       XXXX- ,Volumen Couvert Anzahl  (x C)  Schachteln Anzahl (x S)  Bände       Anzahl (x B)      Rezensionen   Anzahl (x R) keine (00),Grenzdaten  historisch XXXX-XXXX   aktiv       XXXX- 
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000003,,,,,,,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000004,Fespiel Adligenswil,Adligenswil,Adligenswil (ZSV),LU,,?,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000005,Eidgenössisches Schützenfest - Festspiel,Aarau,Aarau (Sammelcouvert),AG,,na,1924,,,,1 R,1924
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000006,Eidgenössisches Turnfest: Festspiel,Aarau,Aarau,AG,,na,1932,,,,1 C,1932
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000007,Festspiele Baden,Aarau,Aarau (ZSV),AG,,?,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000008,"Festspiel ""Helvetische Sphinx""",Aarau,Aarau,AG,,na,1998,,,,1 C,1998
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000009,Opernspiele Baden,Baden,Baden: Kurtheater,AG,,na,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000010,Eidgenössisches Trachtenfest Basel,Basel,Basel ,BS,,na,1961,,,,1 C,1961
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000011,Festspiel 1892: Vereinigung mit Kleinbasel,Basel,Basel:Festspiele (Sammelcouvert),BS,,na,1892,,,,1 R,1942
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000012,Festspiel 1935: Eigenössisches Sängerfest,Basel,Basel:Festspiele (Sammelcouvert),BS,,na,1935,,,,1 R,1933
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000013,Festspiel 1938: Nordwestschweizer Jodlerfest,Basel,Basel:Festspiele (Sammelcouvert),BS,,na,1938,,,,1 R,1938
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000014,Festspiel 1944: St. Jakobs-Gedenkspiel,Basel,Basel:Festspiele (Sammelcouvert),BS,,na,1944,,,,5 R,1944
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000015,Festspiel 1946: Satus-Festspiel,Basel,"Basel:Festspiele (Sammelcouvert), siehe auch unter Basel: satus-Festspiel 1946",BS,,na,1946,,,,2 R,1946
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000016,Festspiel 1951: 450-Jahr-Feier Basel,Basel,Basel:Festspiele (Sammelcouvert),BS,,na,1951,,,,7 R,1951
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000017,Festspiel 1959: Eidgenössisches Turnfest,Basel,Basel:Festspiele (Sammelcouvert),BS,,na,1959,,,,1R,1959
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000018,Festspiel 1998: Helvetik-Festspiel (Projekt),Basel,Basel:Festspiele (Sammelcouvert),BS,,na,0,,,,1 R,1997
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000019,Kulturfest 1983 Basel,Basel,Basel,BS,,na,1983,,,,1 C,1983
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000020,Satus-Festspiel 1946 (Schützenmatte),Basel,"Basel: Schützenmatt, siehe auch unter Basel: Festspiele (Sammelcouvert)",BS,,na,1946,,,,1 C,1946
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000021,Totentanz Basel (verschiedene Träger und Lokalitäten),Basel,Basel,BS,,na,"1943, 1969, 1975, 1990, 2013",,,,1 C,"1943, 1969, 1975, 1990, 2013"
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000022,Bernfest (1941: 150 Jahre) (1976: Bärnfest),Bern,Bern,BE,,na,?,,,,1 C,"1941, 1976"
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000023,"Berner Sommer-Festspiele (""Jedermann"", 1985)",Bern,Bern: Französische Kirche,BE,,na,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000024,Festspiel Burgerspital,Bern,Bern (ZSV),BE,,na,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000025,Verein Berner Festspiele,Bern,Bern,BE,,na,,,,,1 C,"1937, 1938, 1939, (1945), 1947, 1948, 1950-1952, 1953, (1955), 1962-1964, (1971-1972), 1991"
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000026,Festspiel Binningen 1000-Jahre-Feier,Binningen,Binningen,BL,,na,2004,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000027,Festspiel Bottighofen,Bottighofen,Bottighofen (ZSV),TG,,na,1956,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000028,Festspiel Brienz,Brienz,Brienz (ZSV),BE,,na,1996,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000029,Calavenspiel,Chur,?,GR,,na,1899,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000030,Churer Kleintheater-Festival,Chur,Chur,BE,,na,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000031,Festspiel Chur,Chur,Chur (ZSV),GR,,na,1985,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000032,"""Chilchgang"" (500 Jahre Kirch Conters)",Conters,Conters (ZSV),GR,,na,2016,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000033,Festspiel Davos,Davos,Davos (ZSV),GR,,na,1966,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000034,Einsiedler Welttheater (Welttheater-Gesellschaft Einsiedeln),Einsiedeln,Einsiedeln (ZSV),SZ,,a,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000035,"""Füür & Flammä"" (Flums, Mels und Sargans 1250-Jahr-Feier)",Flums,Sargans (ZSV),SG,,na,2015,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000036,GE200 (Bicentenaire),Genève,Genève,GE,,na,2014,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000037,"Hemmental 900-Jahr-Feier (""Hemmental dur d'Johrhundert"")",Hemmental,Hemmental (ZSV),SH,,na,1990,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000038,Festspiel Tausendjahrfeier Horgen,Horgen,Horgen (ZSV),ZH,,na,1952,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000039,Festspiel in Hundwil,Hundwil,Hundwil,AG,,a,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000040,Tell Freilichtspiele Interlaken (Tellspiele Interlaken),Interlaken (Matten),,BE,,a,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000041,Unspunnen Festspiel,Interlaken,Interlaken (ZSV),BE,,na,1968,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000042,Festspiel 750 Jahre Kestenholz,Kestenholz,Kestenholz (ZSV),SO,,na,2012,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000043,Festspiel Kirchberg,Kirchberg,Kirchberg (ZSV),BE,,na,1994,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000044,Königsfelder Festspiele,Königsfelden,Königsfelden,AG,,na,-2012,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000045,Liestal Festspiel 800 Jahre,Liestal,Liestal,BL,,na,1989,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000046,Festspiele Luzern,Luzern,Luzern (ZSV),LU,,na,1942-1945,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000047,Heidi Freilichtspiele,Maienfeld,Maienfeld (ZSV),GR,,a,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000048,Oh Festival Valais Wallis Arts Vivants 2015 (Oh! Festival),Monthey,CH: Einz. Reg.: Kt. Wallis,VS,,,,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000049,"""1476"" (Festspiel)",Murten,Murten (ZSV),BE,,na,2014,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000050,"""Helvetische Revolution"" (1798)",Murten,Murten (ZSV),BE,,pen,2015,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000051,Morgarten-Freilichtspiel (Morgarten-Spektakel) (2015),Oberägeri,Oberägeri,ZG,,na,2015,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000052,Festspiel Oberburg,Oberburg,Oberburg (ZSV),BE,,na,2002,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000053,850 Jahre Oberhofen,Oberhofen,Oberhofen (ZSV),BE,,na,1983,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000054,100-Jahre-Landesstreik 2018 (100-Jahr-Feier) (Generalstreik),Olten,Olten ,SO,,pen,2018,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000055,"Sacre del Gottardo (Festspiel zur Neat-Eröffnung, 2016)",Poleggio und Schattdorf (Rynäch),Pollegio und Schattdorf,"TI, UR",,na,2016,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000056,Festspiel ForzaSurselva,"Schischiu (Rueun, Siat)","Schischiu (Rueun, Siat) (ZSV)",GR,,na,2007,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000057,Festspiel Stäfa,Stäfa,Stäfa (Stäfa) (ZSV),ZH,,na,1995,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000058,Oh Tavanasa (1250-Jahr-Feier),Tavanasa,Danis-Tavanasa (ZSV?),GR,,na,2015,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000059,Festspiel Weinfelden,Weinfelden,Weinfelden (ZSV),TG,,na,1991,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000060,Wil 800-Jahr-Feier,Wil SG,Wil SG (ZSV),ZH,,na,2016,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000061,Hauenstein Tunnel (100 Jahre) / Steinbruch / Chänel,Wisen,Wisen (ZSV),SO,,na,2014,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000062,1200 Jahre Wiesendangen,Wiesendangen,Wiesendangen (ZSV),ZH,,na,2004,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000063,The Matterhorn Story (Freilichtspiele Zermatt),Zermatt,Zermatt,VS,,na,2015,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000064,Laina Viva (Freilichtspektakel zu 100 Jahre Schweizer Nationalpark),Zernez,Zernez (nicht ZSV),VS,,na,2014,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000065,"Dada (Festwochen 2003, 2004, 100-Jahr-Jubiläum 2016)",Zürich,Zürich,ZH,,na,"2002-2004, 2016",,,,2 R + ?,"(2003), (2004) (2016)"
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000066,"""Die Akte Zwingli"" (Festspiel zum Reformationsjubiläum)",Zürich,Zürich,ZH,,a,2017,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000067,Schweizerische Landesausstellung (1939),Zürich,Zürich,ZH,,na,1939,,,,,
+spa:DatenbankUrsFestspiele,STS-DatenbankUrsFestspiele00000068,Modetheater,Zürich,Zürich: Schweizerische Landesausstellung,ZH,,na,1939,,,,,

@@ -1,0 +1,120 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix schema: <http://schema.org/> .
+@prefix eclap: <http://www.eclap.eu/schema/eclap/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix ex: <http://www.example.org/ex/> .
+@prefix spa: <http://spa.openglam.ch/spa/voc/> .
+
+
+<#PerformingArtsProductionMapping>
+  rml:logicalSource [
+    rml:source "input/DatenbankUrs_Verbaende.csv" ;
+    rml:referenceFormulation ql:CSV 
+  ];
+  rr:subjectMap [
+    rr:template "http://spa.openglam.ch/{dct:identifier}";
+    rr:class schema:Event
+   ];
+
+  rr:predicateObjectMap [
+  	rr:predicate schema:name;
+  	rr:objectMap [
+    	rml:reference "schema:name"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate schema:addressLocality;
+  	rr:objectMap [
+    	rml:reference "schema:addressLocality"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate ex:AblageortSTS;
+  	rr:objectMap [
+    	rml:reference "ex:AblageortSTS"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate schema:addressRegion;
+  	rr:objectMap [
+    	rml:reference "schema:addressRegion"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate schema:relatedLink;
+  	rr:objectMap [
+    	rml:reference "schema:relatedLink"
+    	]
+    ];
+
+rr:predicateObjectMap [
+  	rr:predicate ex:Statusaaktivnanichtaktiv;
+  	rr:objectMap [
+    	rml:reference "ex:Statusaaktivnanichtaktiv"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate schema:Organization;
+  	rr:objectMap [
+    	rml:reference "schema:Organization"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate ex:EckdatennichtSTS;
+  	rr:objectMap [
+    	rml:reference "ex:EckdatennichtSTS"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate ex:frühereNamen;
+  	rr:objectMap [
+    	rml:reference "ex:frühereNamen"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate ex:Dokumente1;
+  	rr:objectMap [
+    	rml:reference "ex:Dokumente1"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate ex:Dokumente2;
+  	rr:objectMap [
+    	rml:reference "ex:Dokumente2"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate ex:Dokumente3;
+  	rr:objectMap [
+    	rml:reference "ex:Dokumente3"
+    	]
+    ];
+
+ rr:predicateObjectMap [
+  	rr:predicate ex:Dokumente4;
+  	rr:objectMap [
+    	rml:reference "ex:Dokumente4"
+    	]
+    ].
