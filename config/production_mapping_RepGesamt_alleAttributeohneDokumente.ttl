@@ -20,7 +20,7 @@
 
 <#PerformingArtsProductionMapping>
   rml:logicalSource [
-    rml:source "input/STS_Rep_Gesamt\STS_Rep_Gesamt_Mapping_full.csv" ;
+    rml:source "input/STS_Rep_Gesamt_Mapping_full.csv" ;
     rml:referenceFormulation ql:CSV 
   ];
   rr:subjectMap [
