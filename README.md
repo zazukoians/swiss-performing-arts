@@ -17,3 +17,4 @@ The data is first mapped to a simple key-value like RDF structure. In a second s
 ## Contributors
 
 * Timm Stern: All initial RML mapping files
+* Patched RML processor by [alemela](https://github.com/alemela/RML-Processor)
