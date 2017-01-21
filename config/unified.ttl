@@ -43,7 +43,7 @@
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:AblageortSTS;
+    rr:predicate ex:ablageortSTS;
     rr:objectMap [
       rml:reference "ex:AblageortSTS"
     ]
@@ -57,21 +57,21 @@
   ];
 
   rr:predicateObjectMap [
-    rr:predicate schema:Organization;
+    rr:predicate schema:name;
     rr:objectMap [
-      rml:reference "schema:name"
+      rml:reference "schema:Organization"
     ]
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:Statusaaktivnanichtaktiv;
+    rr:predicate ex:statusaaktivnanichtaktiv;
     rr:objectMap [
       rml:reference "ex:Statusaaktivnanichtaktiv"
     ]
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:EckdatennichtSTS;
+    rr:predicate ex:eckdatennichtSTS;
     rr:objectMap [
       rml:reference "ex:EckdatennichtSTS"
     ]
@@ -85,56 +85,56 @@
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:Dokumente1;
+    rr:predicate ex:dokumente1;
     rr:objectMap [
       rml:reference "ex:Dokumente1"
     ]
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:Dokumente2;
+    rr:predicate ex:dokumente2;
     rr:objectMap [
       rml:reference "ex:Dokumente2"
     ]
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:Dokumente3;
+    rr:predicate ex:dokumente3;
     rr:objectMap [
       rml:reference "ex:Dokumente3"
     ]
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:Dokumente4;
+    rr:predicate ex:dokumente4;
     rr:objectMap [
       rml:reference "ex:Dokumente4"
     ]
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:Art;
+    rr:predicate ex:art;
     rr:objectMap [
       rml:reference "ex:Art"
     ]
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:TheaterKlassifikation;
+    rr:predicate ex:theaterKlassifikation;
     rr:objectMap [
       rml:reference "ex:TheaterKlassifikation"
     ]
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:Rep;
+    rr:predicate ex:rep;
     rr:objectMap [
       rml:reference "ex:Rep"
     ]
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:Details;
+    rr:predicate ex:details;
     rr:objectMap [
       rml:reference "ex:Details"
     ]
@@ -155,7 +155,7 @@
   ];
 
   rr:predicateObjectMap [
-    rr:predicate ex:Typ;
+    rr:predicate ex:typ;
     rr:objectMap [
       rml:reference "ex:Typ"
     ]
