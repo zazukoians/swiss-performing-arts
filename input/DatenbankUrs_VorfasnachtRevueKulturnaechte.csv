@@ -1,20 +1,20 @@
-owl:Class,dct:identifier,schema:name,schema:addressLocality,ex:AblageortSTS,schema:addressRegion,schema:relatedLink,schema:Organization,ex:rep,ex:statusaaktivnanichtaktiv,ex:EckdatennichtSTS,ex:frühereNamen,ex:Dokumente1,ex:Dokumente2,ex:Dokumente3,ex:Dokumente4
+owl:Class,dct:identifier,schema:name,schema:addressLocality,ex:AblageortSTS,schema:addressRegion,schema:relatedLink,schema:Organization,ex:rep,ex:statusaaktivnanichtaktiv,ex:EckdatennichtSTS,ex:frÃ¼hereNamen,ex:Dokumente1,ex:Dokumente2,ex:Dokumente3,ex:Dokumente4
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000001,,,,,,,,,,,VP,,PA,
-spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000002,,,,,,,,,,,Volumen Couvert Anzahl  (x C)  Schachteln Anzahl (x S)  Bände       Anzahl (x B)      Rezensionen   Anzahl (x R) keine (00),Grenzdaten  historisch XXXX-XXXX   aktiv       XXXX- ,Volumen Couvert Anzahl  (x C)  Schachteln Anzahl (x S)  Bände       Anzahl (x B)      Rezensionen   Anzahl (x R) keine (00),Grenzdaten  historisch XXXX-XXXX   aktiv       XXXX- 
+spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000002,,,,,,,,,,,Volumen Couvert Anzahl  (x C)  Schachteln Anzahl (x S)  BÃ¤nde       Anzahl (x B)      Rezensionen   Anzahl (x R) keine (00),Grenzdaten  historisch XXXX-XXXX   aktiv       XXXX- ,Volumen Couvert Anzahl  (x C)  Schachteln Anzahl (x S)  BÃ¤nde       Anzahl (x B)      Rezensionen   Anzahl (x R) keine (00),Grenzdaten  historisch XXXX-XXXX   aktiv       XXXX- 
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000003,,,,,,,,,,,,,,
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000004,Charivari <Vorfasnachtsveranstaltung>,Basel,Basel: Volkshaus,BS,,,,a,,,,,,
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000005,Drummeli (Monstre-Trommelkonzert) <Vorfasnachtsveranstaltung>,Basel,Basel: Musical Theater Basel,BS,,,,a,,,,,,
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000006,Fasnacht diverse,Basel,Basel: Fasnacht Diverse,BS,,,,a,,,,,2 C,1834-1979 (verinzelte) / 1981-
-spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000007,Fasnachtsbändeli <Vorfasnachtsveranstaltung>,Basel,Basel: Theater Arlecchino,BS,,,,a,,,,,,
+spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000007,FasnachtsbÃ¤ndeli <Vorfasnachtsveranstaltung>,Basel,Basel: Theater Arlecchino,BS,,,,a,,,,,,
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000008,Fasnachtskiechli <Vorfasnachtsveranstaltung>,Basel,Basel: SCALA,BS,,,,a,,,,,,
-spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000009,Mimösli <Vorfasnachtsveranstaltung>,Basel,Basel: Häbse-Theater,BS,,,,a,,,,,,
-spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000010,Ridicule <Vorfasnachtsveranstaltung>,Basel,Basel: Förnbacher Theater,,,,,,,,,,,
+spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000009,MimÃ¶sli <Vorfasnachtsveranstaltung>,Basel,Basel: HÃ¤bse-Theater,BS,,,,a,,,,,,
+spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000010,Ridicule <Vorfasnachtsveranstaltung>,Basel,Basel: FÃ¶rnbacher Theater,,,,,,,,,,,
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000011,S'Pfyfferli <Vorfasnachtsveranstaltung>,Basel,Basel: Theater Fauteuil,BS,,,,a,,,,,,
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000012,Wirrlete <Fasnachtsveranstaltung>,Basel,Basel: Theater Fauteuil,BS,,,,a,,,,,,
-spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000013,Zofinger-Concärtli <Fasnachtsveranstaltung>,Basel,Basel: Zofingia,BS,,,,a,,,,,,
+spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000013,Zofinger-ConcÃ¤rtli <Fasnachtsveranstaltung>,Basel,Basel: Zofingia,BS,,,,a,,,,,,
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000014,Kulturnacht Burgdorf (Burgdorfer Kulturnacht),Burgdorf,Burgdorf,BE,,,,a,,,,,,
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000015,Fribug (Revue satirique de Fribourg),Fribourg,Fribourg,FR,,,,a,,,,,,
-spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000016,La R'vue (La Revue),Genève,Genève: Casino-Théâtre (La Revue),GE,,,,a,1920-,,,,1 S,(1932)-
+spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000016,La R'vue (La Revue),GenÃ¨ve,GenÃ¨ve: Casino-ThÃ©Ã¢tre (La Revue),GE,,,,a,1920-,,,,1 S,(1932)-
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000017,Langenthaler Kulturnacht (Kulturnacht Langenthal),Langenthal,Langenthal,BE,,,,a,,,,,,
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000018,Kulturnacht Liestal,Liestal,Liestal,BL,,,,a,,,,,,
 spa:DatenbankUrsVorfasnachtRevueKulturnaechte,STS-DatenbankUrsVorfasnachtRevueKulturnaechte00000019,La Revue du Valais,Saxon,Saxon: Casino de Saxon,VS,,,,a,,,,,,
