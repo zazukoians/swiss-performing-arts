@@ -1,0 +1,8 @@
+PREFIX spav: <http://performing-arts.ch/vocab/> 
+
+INSERT { GRAPH <http://performing-arts.ch/graph/inference> { ?s a spav:Item }}
+WHERE {
+  ?s spav:level ?o
+  
+  FILTER( ?o IN("Dokument / Document", "Publikation / Publication", "Artikel / Article" ))
+}

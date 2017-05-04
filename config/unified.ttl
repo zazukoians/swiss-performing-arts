@@ -19,7 +19,7 @@
 
 <#Organization>
   rml:logicalSource [
-    rml:source "input/%%FILE%%" ;
+    rml:source "%%FILE%%" ;
     rml:referenceFormulation ql:CSV 
   ];
 
@@ -163,7 +163,7 @@
 
 <#Address>
   rml:logicalSource [
-    rml:source "input/%%FILE%%" ;
+    rml:source "%%FILE%%" ;
     rml:referenceFormulation ql:CSV 
   ];
 

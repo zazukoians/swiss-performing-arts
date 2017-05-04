@@ -1,0 +1,8 @@
+PREFIX spav: <http://performing-arts.ch/vocab/> 
+
+INSERT { GRAPH <http://performing-arts.ch/graph/inference> { ?s a spav:Collection }}
+WHERE {
+  ?s spav:level ?o
+  
+  FILTER( ?o IN("Hauptabteilung / Section", "Unterabteilung 1 / Sous-section 1", "Unterabteilung 2 / Sous-section 2", "Unterabteilung 3 / Sous-section 3", "Unterabteilung 4 / Sous-section 4" ))
+}

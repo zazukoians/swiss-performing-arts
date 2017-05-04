@@ -1,0 +1,14 @@
+PREFIX spav: <http://performing-arts.ch/vocab/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX sp: <http://spinrdf.org/sp#>
+
+INSERT { GRAPH <http://performing-arts.ch/graph/inference> {
+  ?s spav:isAssociatedWith ?conceptUri .
+  
+  ?conceptUri a spav:CorporateBody ;
+    spav:label ?o .
+}}
+WHERE {
+  ?s spav:r_isAssociatedWith_99 ?o .
+  BIND(URI(CONCAT("http://performing-arts.ch/data/", ENCODE_FOR_URI(?o))) AS ?conceptUri)
+}
