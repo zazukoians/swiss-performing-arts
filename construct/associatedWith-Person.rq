@@ -5,10 +5,10 @@ PREFIX sp: <http://spinrdf.org/sp#>
 INSERT { GRAPH <http://performing-arts.ch/graph/inference> {
   ?s spav:isAssociatedWith ?conceptUri .
   
-  ?conceptUri a spav:CorporateBody ;
+  ?conceptUri a spav:Person ;
     spav:label ?o .
 }}
 WHERE {
-  ?s spav:r_isAssociatedWith_114 ?o .
+  ?s spav:r_isAssociatedWith_49 ?o .
   BIND(URI(CONCAT("http://performing-arts.ch/data/", ENCODE_FOR_URI(?o))) AS ?conceptUri)
 }
