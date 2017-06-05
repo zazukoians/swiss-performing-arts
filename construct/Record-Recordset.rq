@@ -1,8 +1,10 @@
-PREFIX spav: <http://performing-arts.ch/vocab/> 
+PREFIX spav: <http://vocab.performing-arts.ch/>
 
-INSERT { GRAPH <http://performing-arts.ch/graph/inference> { ?s a spav:RecordSet }}
-WHERE {
+INSERT { GRAPH <http://example.com/tanzarchiv> {
+  ?s a spav:RecordSet
+}}
+WHERE { GRAPH <http://example.com/tanzarchiv> { 
   ?s spav:level ?o
   
   FILTER( ?o IN("Dossier" ))
-}
+}}
