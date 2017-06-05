@@ -19,4 +19,9 @@ sparqlu construct/Record-Item.rq $FUSEKI_UPDATE
 ## Properties
 
 
-## SKOS
+## Concept generation & cleanup
+
+sparqlu construct/hasLocation-Country.rq $FUSEKI_UPDATE
+sparqlu construct/associatedWith-CorporateBody.rq $FUSEKI_UPDATE
+sparqlu construct/associatedWith-DocumentaryForm.rq $FUSEKI_UPDATE
+sparqlu construct/associatedWith-Person.rq $FUSEKI_UPDATE
